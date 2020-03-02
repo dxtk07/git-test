@@ -5,7 +5,14 @@ public class L2 {
 
         return head;
     }
+
+
+    public void test(){
+        int i = 0;
+        i += 10;
+    }
 }
+
 
 /**
  * Definition for singly-linked list.
